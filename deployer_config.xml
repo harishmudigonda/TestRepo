@@ -2,7 +2,7 @@
 <config>
 
 	<deployment>
-		<deploy path="" status="TO_DEPLOY"/>
+		<deploy path="  " status="TO_DEPLOY"/>
 	</deployment>
 
 </config>
